@@ -135,7 +135,7 @@
       width: 100%;
     }
     img {
-      /* object-fit: contain; */
+      object-fit: contain;
       width: 600px;
     }
     .slider__nav {
